@@ -6,5 +6,3 @@ gem "hasie"
 group :development do
 gem "pry"
 end
-
-
